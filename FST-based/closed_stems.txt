@@ -1,0 +1,41 @@
+### NUM ###
+NUM,NumType=Card:иу дыууæ ды æртæ æрты цыппар цыппæр фондз фæндз æхсæз авд æвд аст æст фараст фарæст дæс иуæндæс дыууадæс æртындæс цыппæрдæс фынддæс æхсæрдæс æвддæс æстдæс нудæс ссæдз дыууын æртын цыппор фæндзай æхсай æвдай æстай нæуæдз сæдæ мин
+
+### PRON ###
+PRON:йед йæд тед
+PRON,PronType=Dem|Deixis=Prox|Number=Plur:адон 
+PRON,PronType=Dem|Deixis=Remt|Number=Plur:уыдон 
+PRON,PronType=Tot:æппæт ппæт
+PRON,PronType=Int:цал
+PRON,PronType=Ind:цалдæр
+PRON,PronType=Ind:цалдæриддæр
+PRON,PronType=Rcp:кæрæдзи
+
+### Бывшие DET ###
+PRON,PronType=Dem|Deixis=Prox:ацы айас ахæм 
+PRON,PronType=Dem|Deixis=Prox:йацы йахæм
+PRON,PronType=Dem|Deixis=Remt:уыцы уыйас уæд йæд уæртæ уæдæ уалынмæ уалынджы уымæн уал
+PRON,PronType=Tot:алы æгас æнæхъæн иууылдæр
+PRON,PronType=Int:кæцы цæвæр цавæр цас цæхæм
+PRON,PronType=Ind:искæцы
+PRON,PronType=Ind:кæцыдæр цасдæр
+PRON,PronType=Ind:кæцыдæриддæр цасдæриддæр
+PRON,PronType=Neg:никæцы макæцы
+
+### Бывшие ADV ###
+PRON,PronType=Dem|Deixis=Prox:афтæ афтæмæй 
+PRON,PronType=Dem|Deixis=Prox:йафтæ
+PRON,PronType=Dem:ныр мæнæ йер æр гъер
+PRON,PronType=Tot:алкæм алкæд
+PRON,PronType=Int:куы кæм кæцæй кæд куыд цæмæн цæмæй цалынмæ
+PRON,PronType=Ind:искуы искæм искæцæй искæд искуыд истæмæн истæмæй
+PRON,PronType=Ind:кæмдæр кæцæйдæр кæддæр куыддæр цæмæндæр цæмæйдæр 
+PRON,PronType=Ind:кæмдæриддæр кæцæйдæриддæр кæддæриддæр куыддæриддæр цæмæндæриддæр цæмæйдæриддæр
+PRON,PronType=Neg:никуы никæм никæцæй никæд никуыд ницæмæн ницæмæй
+PRON,PronType=Neg:макуы макæм макæцæй макæй макуыд мацæмæн мацæмæй
+
+### AUX ###
+AUX:уы уæв уыд у кæн кæ код конд лас вæйй
+
+### NOUN ###
+NOUN,Number=Plur:адæм

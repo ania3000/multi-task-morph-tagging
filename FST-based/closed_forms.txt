@@ -1,0 +1,354 @@
+### NUM+ ###
+ADJ,NumType=Ord:фыццаг дыккаг æртыккаг цыппарæм цыппæрæм фондзæм фæндзæм æхсæзæм авдæм æвдæм астæм æстæм фарастæм фарæстæм дæсæм иуæндæсæм дыууадæсæм æртындæсæм цыппæрдæсæм фынддæсæм æхсæрдæсæм æвддæсæм æстдæсæм нудæсæм ссæдзæм æртынæм цыппорæм фæндзайæм æхсайæм æвдайæм æстайæм нæуæдзæм сæдææм минæм
+NUM,NumType=Distr|Number=Sing|Case=Nom:иугай дыгай æртыгай цыппаргай цыппæргай фондзгай фæндзгай æхсæзгай авдгай æвдгай астгай æстгай фарастгай фарæстгай дæсгай иуæндæсгай дыууадæсгай æртындæсгай цыппæрдæсгай фынддæсгай æхсæрдæсгай æвддæсгай æстдæсгай нудæсгай ссæдзгай æртынгай цыппоргай фæндзайгай æхсайгай æвдайгай æстайгай нæуæдзгай сæдæгай мингай
+
+### Part Cconj Sconj ###
+PART:цымæ омæ ома ма та дæр уал иу дам куы æрмæст афтид тæккæ хъуамæ
+PART,Polarity=Neg:ма нæ нал не нæма
+PART,VerbForm=Conv:зæгъгæ
+
+CCONJ:æмæ мæ кæнæ йе æви фæлæ æндæра кæннод кæннодæ 
+CCONJ,Polarity=Neg:нæдæр
+
+SCONJ:цæмæй æмæ мæ ома куыд кæй кæд иугæр цыма что
+SCONJ,Polarity=Neg:нæуæд науæд нæмæ намæ
+
+INTJ,Polarity=Neg:нæа на
+
+### PRON ###
+### 1 sg
+PRON,Case=Nom|Person=1|Number=Sing|PronType=Prs:æз 
+PRON,Person=1|Number=Sing|Case=Gen|PronType=Prs:мæн мæ 
+PRON,Person=1|Number=Sing|Case=Dat|PronType=Prs:мæнæн мын 
+PRON,Person=1|Number=Sing|Case=All|PronType=Prs:мæнмæ мæм 
+PRON,Person=1|Number=Sing|Case=Abl|PronType=Prs:мæнæй мæ
+PRON,Person=1|Number=Sing|Case=Ine|PronType=Prs:мæ
+PRON,Person=1|Number=Sing|Case=Sup|PronType=Prs:мæныл мыл
+PRON,Person=1|Number=Sing|Case=Equ|PronType=Prs:мæнау 
+PRON,Person=1|Number=Sing|Case=Com|PronType=Prs:мæнимæ мемæ 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Nom|PronType=Prs:мæхæдæг мæхуыддæг
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Gen|PronType=Prs:мæхи 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Dat|PronType=Prs:мæхицæн 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=All|PronType=Prs:мæхимæ 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Abl|PronType=Prs:мæхицæй 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Ine|PronType=Prs:мæхи 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Sup|PronType=Prs:мæхиуыл 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Equ|PronType=Prs:мæхийау 
+PRON,Person=1|Number=Sing|Reflex=Yes|Case=Com|PronType=Prs:мæхиимæ 
+### 2 sg
+PRON,Person=2|Number=Sing|Case=Nom|PronType=Prs:ды 
+PRON,Person=2|Number=Sing|Case=Gen|PronType=Prs:дæу дæ 
+PRON,Person=2|Number=Sing|Case=Dat|PronType=Prs:дæуæн дын
+PRON,Person=2|Number=Sing|Case=All|PronType=Prs:дæумæ дæм 
+PRON,Person=2|Number=Sing|Case=Abl|PronType=Prs:дæуæй дæ
+PRON,Person=2|Number=Sing|Case=Ine|PronType=Prs:дæ
+PRON,Person=2|Number=Sing|Case=Sup|PronType=Prs:дæуыл дыл 
+PRON,Person=2|Number=Sing|Case=Equ|PronType=Prs:дæуау 
+PRON,Person=2|Number=Sing|Case=Com|PronType=Prs:дæуимæ демæ 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Nom|PronType=Prs:дæхæдæг дæхуыддæг
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Gen|PronType=Prs:дæхи 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Dat|PronType=Prs:дæхицæн 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=All|PronType=Prs:дæхимæ 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Abl|PronType=Prs:дæхицæй 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Ine|PronType=Prs:дæхи 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Sup|PronType=Prs:дæхиуыл 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Equ|PronType=Prs:дæхийау 
+PRON,Person=2|Number=Sing|Reflex=Yes|Case=Com|PronType=Prs:дæхиимæ 
+### 1 pl
+PRON,Person=1|Number=Plur|Case=Nom|PronType=Prs:мах
+PRON,Person=1|Number=Plur|Case=Gen|PronType=Prs:мах нæ
+PRON,Person=1|Number=Plur|Case=Dat|PronType=Prs:махæн нын
+PRON,Person=1|Number=Plur|Case=All|PronType=Prs:махмæ нæм 
+PRON,Person=1|Number=Plur|Case=Ine|PronType=Prs:нæ
+PRON,Person=1|Number=Plur|Case=Abl|PronType=Prs:махæй нæ
+PRON,Person=1|Number=Plur|Case=Sup|PronType=Prs:махыл ныл
+PRON,Person=1|Number=Plur|Case=Equ|PronType=Prs:ахау 
+PRON,Person=1|Number=Plur|Case=Com|PronType=Prs:махимæ немæ 
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Nom|PronType=Prs:нæхæдæг нæхуыддæг
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Gen|PronType=Prs:нæхи
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Dat|PronType=Prs:нæхицæн 
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=All|PronType=Prs:нæхимæ 
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Ine|PronType=Prs:нæхи
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Abl|PronType=Prs:нæхицæй 
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Sup|PronType=Prs:нæхиуыл 
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Equ|PronType=Prs:нæхийау 
+PRON,Person=1|Number=Plur|Reflex=Yes|Case=Com|PronType=Prs:нæхиимæ 
+### 2 pl
+PRON,Person=2|Number=Plur|Case=Nom|PronType=Prs:сымах
+PRON,Person=2|Number=Plur|Case=Gen|PronType=Prs:сымах уæ
+PRON,Person=2|Number=Plur|Case=Dat|PronType=Prs:сымахæн уын
+PRON,Person=2|Number=Plur|Case=All|PronType=Prs:сымахмæ уæм 
+PRON,Person=2|Number=Plur|Case=Ine|PronType=Prs:уæ 
+PRON,Person=2|Number=Plur|Case=Abl|PronType=Prs:сымахæй уæ 
+PRON,Person=2|Number=Plur|Case=Sup|PronType=Prs:сымахыл уыл 
+PRON,Person=2|Number=Plur|Case=Equ|PronType=Prs:сымахау 
+PRON,Person=2|Number=Plur|Case=Com|PronType=Prs:сымахимæ уемæ 
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Nom|PronType=Prs:уæхæдæг уæхуыддæг
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Gen|PronType=Prs:уæхи
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Dat|PronType=Prs:уæхицæн 
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=All|PronType=Prs:уæхимæ 
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Ine|PronType=Prs:уæхи
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Abl|PronType=Prs:уæхицæй 
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Sup|PronType=Prs:уæхиуыл 
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Equ|PronType=Prs:уæхийау 
+PRON,Person=2|Number=Plur|Reflex=Yes|Case=Com|PronType=Prs:уæхиимæ 
+### 3 sg
+PRON,Person=3|Number=Sing|Case=Gen|PronType=Prs:æй йæ
+PRON,Person=3|Number=Sing|Case=Dat|PronType=Prs:ын йын
+PRON,Person=3|Number=Sing|Case=All|PronType=Prs:æм йæм 
+PRON,Person=3|Number=Sing|Case=Ine|PronType=Prs:æй йæ дзы 
+PRON,Person=3|Number=Sing|Case=Abl|PronType=Prs:æй йæ дзы
+PRON,Person=3|Number=Sing|Case=Sup|PronType=Prs:ыл йыл
+PRON,Person=3|Number=Sing|Case=Com|PronType=Prs:йемæ
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Nom|PronType=Prs:йæхæдæг йæхуыддæг
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Gen|PronType=Prs:йæхи
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Dat|PronType=Prs:йæхицæн 
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=All|PronType=Prs:йæхимæ 
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Ine|PronType=Prs:йæхи
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Abl|PronType=Prs:йæхицæй 
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Sup|PronType=Prs:йæхиуыл 
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Equ|PronType=Prs:йæхийау 
+PRON,Person=3|Number=Sing|Reflex=Yes|Case=Com|PronType=Prs:йæхиимæ 
+### 3 pl
+PRON,Person=3|Number=Plur|Case=Gen|PronType=Prs:сæ 
+PRON,Person=3|Number=Plur|Case=Dat|PronType=Prs:сын 
+PRON,Person=3|Number=Plur|Case=All|PronType=Prs:сæм 
+PRON,Person=3|Number=Plur|Case=Ine|PronType=Prs:сæ дзы
+PRON,Person=3|Number=Plur|Case=Abl|PronType=Prs:сæ дзы
+PRON,Person=3|Number=Plur|Case=Sup|PronType=Prs:сыл 
+PRON,Person=3|Number=Plur|Case=Com|PronType=Prs:семæ
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Nom|PronType=Prs:сæхæдæг сæхуыддæг
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Gen|PronType=Prs:сæхи
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Dat|PronType=Prs:сæхицæн 
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=All|PronType=Prs:сæхимæ 
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Ine|PronType=Prs:сæхи
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Abl|PronType=Prs:сæхицæй 
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Sup|PronType=Prs:сæхиуыл 
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Equ|PronType=Prs:сæхийау 
+PRON,Person=3|Number=Plur|Reflex=Yes|Case=Com|PronType=Prs:сæхиимæ 
+### Int
+PRON,PronType=Int|Number=Sing|Case=Nom:цы чи 
+PRON,PronType=Int|Number=Sing|Case=Gen:цæй кæй 
+PRON,PronType=Int|Number=Sing|Case=Dat:цæмæн кæмæн 
+PRON,PronType=Int|Number=Sing|Case=All:цæмæ кæмæ 
+PRON,PronType=Int|Number=Sing|Case=Ine:цæм кæм 
+PRON,PronType=Int|Number=Sing|Case=Abl:цæмæй кæмæй 
+PRON,PronType=Int|Number=Sing|Case=Sup:цæуыл кæуыл 
+PRON,PronType=Int|Number=Sing|Case=Equ:цæйау кæйау 
+PRON,PronType=Int|Number=Sing|Case=Com:цæимæ кæимæ 
+PRON,PronType=Int|Number=Plur|Case=Nom:цытæ читæ 
+PRON,PronType=Int|Number=Plur|Case=Gen:цæйты кæйты 
+PRON,PronType=Int|Number=Plur|Case=Dat:цæмæнты кæмæнты 
+PRON,PronType=Int|Number=Plur|Case=All:цæмæты кæмæты 
+PRON,PronType=Int|Number=Plur|Case=Ine:цæмыты кæмыты 
+PRON,PronType=Int|Number=Plur|Case=Abl:цæмæйты кæмæйты 
+PRON,PronType=Int|Number=Plur|Case=Sup:цæуылты кæуылты 
+PRON,PronType=Int|Number=Plur|Case=Equ:цæйауты кæйауты 
+PRON,PronType=Int|Number=Plur|Case=Com:цæимæты кæимæты 
+### Ind
+PRON,PronType=Ind|Number=Sing|Case=Nom:исты исчи 
+PRON,PronType=Ind|Number=Sing|Case=Gen:истæй искæй 
+PRON,PronType=Ind|Number=Sing|Case=Dat:истæмæн искæмæн 
+PRON,PronType=Ind|Number=Sing|Case=All:истæмæ искæмæ 
+PRON,PronType=Ind|Number=Sing|Case=Ine:истæм искæм 
+PRON,PronType=Ind|Number=Sing|Case=Abl:истæмæй искæмæй 
+PRON,PronType=Ind|Number=Sing|Case=Sup:истæуыл искæуыл 
+PRON,PronType=Ind|Number=Sing|Case=Equ:истæйау искæйау 
+PRON,PronType=Ind|Number=Sing|Case=Com:истæимæ искæимæ 
+PRON,PronType=Ind|Number=Plur|Case=Nom:истытæ исчитæ 
+PRON,PronType=Ind|Number=Plur|Case=Gen:истæйты искæйты 
+PRON,PronType=Ind|Number=Plur|Case=Dat:истæмæнты искæмæнты 
+PRON,PronType=Ind|Number=Plur|Case=All:истæмæты искæмæты 
+PRON,PronType=Ind|Number=Plur|Case=Ine:истæмыты искæмыты 
+PRON,PronType=Ind|Number=Plur|Case=Abl:истæмæйты искæмæйты 
+PRON,PronType=Ind|Number=Plur|Case=Sup:истæуылты искæуылты 
+PRON,PronType=Ind|Number=Plur|Case=Equ:истæйауты искæйауты 
+PRON,PronType=Ind|Number=Plur|Case=Com:истæимæты искæимæты 
+
+PRON,PronType=Ind|Number=Sing|Case=Nom:цыдæр чидæр
+PRON,PronType=Ind|Number=Sing|Case=Gen:цæйдæр кæйдæр
+PRON,PronType=Ind|Number=Sing|Case=Dat:цæмæндæр кæмæндæр 
+PRON,PronType=Ind|Number=Sing|Case=All:цæмæдæр кæмæдæр 
+PRON,PronType=Ind|Number=Sing|Case=Ine:цæмдæр кæмдæр
+PRON,PronType=Ind|Number=Sing|Case=Abl:цæмæйдæр кæмæйдæр 
+PRON,PronType=Ind|Number=Sing|Case=Sup:цæуылдæр кæуылдæр 
+PRON,PronType=Ind|Number=Sing|Case=Equ:цæйаудæр кæйаудæр
+PRON,PronType=Ind|Number=Sing|Case=Com:цæимæдæр кæимæдæр 
+PRON,PronType=Ind|Number=Plur|Case=Nom:цыдæртæ чидæртæ 
+PRON,PronType=Ind|Number=Plur|Case=Gen:цæйдæрты кæйдæрты 
+PRON,PronType=Ind|Number=Plur|Case=Dat:цæмæндæрты кæмæндæрты 
+PRON,PronType=Ind|Number=Plur|Case=All:цæмæдæрты кæмæдæрты 
+PRON,PronType=Ind|Number=Plur|Case=Ine:цæмдæрты кæмдæрты 
+PRON,PronType=Ind|Number=Plur|Case=Abl:цæмæйдæрты кæмæйдæрты 
+PRON,PronType=Ind|Number=Plur|Case=Sup:цæуылдæрты кæуылдæрты 
+PRON,PronType=Ind|Number=Plur|Case=Equ:цæйаудæрты кæйаудæрты 
+PRON,PronType=Ind|Number=Plur|Case=Com:цæимæдæрты кæимæдæрты 
+
+PRON,PronType=Ind|Number=Sing|Case=Nom:цыдæриддæр чидæриддæр
+PRON,PronType=Ind|Number=Sing|Case=Gen:цæйдæриддæр кæйдæриддæр
+PRON,PronType=Ind|Number=Sing|Case=Dat:цæмæндæриддæр кæмæндæриддæр
+PRON,PronType=Ind|Number=Sing|Case=All:цæмæдæриддæр кæмæдæриддæр
+PRON,PronType=Ind|Number=Sing|Case=Ine:цæмдæриддæр кæмдæриддæр
+PRON,PronType=Ind|Number=Sing|Case=Abl:цæмæйдæриддæр кæмæйдæриддæр 
+PRON,PronType=Ind|Number=Sing|Case=Sup:цæуылдæриддæр кæуылдæриддæр 
+PRON,PronType=Ind|Number=Sing|Case=Equ:цæйаудæриддæр кæйаудæриддæр
+PRON,PronType=Ind|Number=Sing|Case=Com:цæимæдæриддæр кæимæдæриддæр
+PRON,PronType=Ind|Number=Plur|Case=Nom:цыдæриддæртæ чидæриддæртæ 
+PRON,PronType=Ind|Number=Plur|Case=Gen:цæйдæриддæрты кæйдæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=Dat:цæмæндæриддæрты кæмæндæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=All:цæмæдæриддæрты кæмæдæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=Ine:цæмдæриддæрты кæмдæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=Abl:цæмæйдæриддæрты кæмæйдæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=Sup:цæуылдæриддæрты кæуылдæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=Equ:цæйаудæриддæрты кæйаудæриддæрты 
+PRON,PronType=Ind|Number=Plur|Case=Com:цæимæдæриддæрты кæимæдæриддæрты 
+### Tot 
+PRON,PronType=Tot|Number=Sing|Case=Nom:алцы алчи 
+PRON,PronType=Tot|Number=Sing|Case=Gen:алцæй алкæй 
+PRON,PronType=Tot|Number=Sing|Case=Dat:алцæмæн алкæмæн 
+PRON,PronType=Tot|Number=Sing|Case=All:алцæмæ алкæмæ 
+PRON,PronType=Tot|Number=Sing|Case=Ine:алцæм алкæм 
+PRON,PronType=Tot|Number=Sing|Case=Abl:алцæмæй алкæмæй 
+PRON,PronType=Tot|Number=Sing|Case=Sup:алцæуыл алкæуыл 
+PRON,PronType=Tot|Number=Sing|Case=Equ:алцæйау алкæйау 
+PRON,PronType=Tot|Number=Sing|Case=Com:алцæимæ алкæимæ 
+PRON,PronType=Tot|Number=Plur|Case=Nom:алцытæ алчитæ 
+PRON,PronType=Tot|Number=Plur|Case=Gen:алцæйты алкæйты 
+PRON,PronType=Tot|Number=Plur|Case=Dat:алцæмæнты алкæмæнты 
+PRON,PronType=Tot|Number=Plur|Case=All:алцæмæты алкæмæты 
+PRON,PronType=Tot|Number=Plur|Case=Ine:алцæмыты алкæмыты 
+PRON,PronType=Tot|Number=Plur|Case=Abl:алцæмæйты алкæмæйты 
+PRON,PronType=Tot|Number=Plur|Case=Sup:алцæуылты алкæуылты 
+PRON,PronType=Tot|Number=Plur|Case=Equ:алцæйауты алкæйауты 
+PRON,PronType=Tot|Number=Plur|Case=Com:алцæимæты алкæимæты 
+### Neg
+PRON,PronType=Neg|Number=Sing|Case=Nom:ницы ничи
+PRON,PronType=Neg|Number=Sing|Case=Gen:ницæй никæй никæйы
+PRON,PronType=Neg|Number=Sing|Case=Dat:ницæмæн никæмæн
+PRON,PronType=Neg|Number=Sing|Case=All:ницæмæ никæмæ
+PRON,PronType=Neg|Number=Sing|Case=Ine:ницæм никæм 
+PRON,PronType=Neg|Number=Sing|Case=Abl:ницæмæй никæмæй
+PRON,PronType=Neg|Number=Sing|Case=Sup:ницæуыл никæуыл
+PRON,PronType=Neg|Number=Sing|Case=Equ:ницæйау никæйау
+PRON,PronType=Neg|Number=Sing|Case=Com:ницæимæ никæимæ
+PRON,PronType=Neg|Number=Plur|Case=Nom:ницытæ ничитæ
+PRON,PronType=Neg|Number=Plur|Case=Gen:ницæйты никæйты 
+PRON,PronType=Neg|Number=Plur|Case=Dat:ницæмæнты никæмæнты
+PRON,PronType=Neg|Number=Plur|Case=All:ницæмæты никæмæты
+PRON,PronType=Neg|Number=Plur|Case=Ine:ницæмыты никæмыты
+PRON,PronType=Neg|Number=Plur|Case=Abl:ницæмæйты никæмæйты
+PRON,PronType=Neg|Number=Plur|Case=Sup:ницæуылты никæуылты
+PRON,PronType=Neg|Number=Plur|Case=Equ:ницæйауты никæйауты
+PRON,PronType=Neg|Number=Plur|Case=Com:ницæимæты никæимæты
+
+PRON,PronType=Neg|Number=Sing|Case=Nom:мацы мачи
+PRON,PronType=Neg|Number=Sing|Case=Gen:мацæй макæй макæйы
+PRON,PronType=Neg|Number=Sing|Case=Dat:мацæмæн макæмæн
+PRON,PronType=Neg|Number=Sing|Case=All:мацæмæ макæмæ
+PRON,PronType=Neg|Number=Sing|Case=Ine:мацæм макæм 
+PRON,PronType=Neg|Number=Sing|Case=Abl:мацæмæй макæмæй
+PRON,PronType=Neg|Number=Sing|Case=Sup:мацæуыл макæуыл
+PRON,PronType=Neg|Number=Sing|Case=Equ:мацæйау макæйау
+PRON,PronType=Neg|Number=Sing|Case=Com:мацæимæ макæимæ
+PRON,PronType=Neg|Number=Plur|Case=Nom:мацытæ мачитæ
+PRON,PronType=Neg|Number=Plur|Case=Gen:мацæйты макæйты 
+PRON,PronType=Neg|Number=Plur|Case=Dat:мацæмæнты макæмæнты
+PRON,PronType=Neg|Number=Plur|Case=All:мацæмæты макæмæты
+PRON,PronType=Neg|Number=Plur|Case=Ine:мацæмыты макæмыты
+PRON,PronType=Neg|Number=Plur|Case=Abl:мацæмæйты макæмæйты
+PRON,PronType=Neg|Number=Plur|Case=Sup:мацæуылты макæуылты
+PRON,PronType=Neg|Number=Plur|Case=Equ:мацæйауты макæйауты
+PRON,PronType=Neg|Number=Plur|Case=Com:мацæимæты макæимæты
+### Dem
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Nom:а ай йай
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Gen:ай 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Dat:амæн 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=All:амæ 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Ine:ам 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Abl:амæй 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Sup:айыл 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Equ:айау 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Com:аимæ 
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Dir:ардæм
+PRON,PronType=Dem|Deixis=Prox|Number=Sing|Case=Rcs:ардыгæй
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Nom:уый 
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Gen:уый уыйы уой
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Dat:уымæн 
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=All:уымæ 
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Ine:уым
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Abl:уымæй 
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Sup:ууыл 
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Equ:уыйау
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Com:уыимæ уыйимæ
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Dir:уырдæм
+PRON,PronType=Dem|Deixis=Remt|Number=Sing|Case=Rcs:уырдыгæй
+
+PRON,PronType=Dem|Deixis=Prox|Number=Plur|Case=Gen:адон
+PRON,PronType=Dem|Deixis=Remt|Number=Plur|Case=Gen:уыдон
+
+### DET ###
+DET,PronType=Dem|Deixis=Prox:ацы айас ахæм а йахæм йацы
+DET,PronType=Dem|Deixis=Remt:уыцы уыйас
+DET,PronType=Int:кæцы цавæр цæвæр цас цæхæм цы
+DET,PronType=Ind:искæцы исты
+DET,PronType=Ind:кæцыдæр цасдæр цыдæр
+DET,PronType=Ind:кæцыдæриддæр цасдæриддæр цыдæриддæр
+DET,PronType=Tot:алы æгас æнæхъæн иууылдæр
+DET,PronType=Neg:никæцы ницы
+DET,PronType=Neg:макæцы мацы
+
+DET,Person=1|Number=Sing|Poss=Yes|PronType=Prs:мæ ме
+DET,Person=2|Number=Sing|Poss=Yes|PronType=Prs:дæ де
+DET,Person=3|Number=Sing|Poss=Yes|PronType=Prs:йæ йе
+DET,Person=1|Number=Plur|Poss=Yes|PronType=Prs:нæ не
+DET,Person=2|Number=Plur|Poss=Yes|PronType=Prs:уæ уе
+DET,Person=3|Number=Plur|Poss=Yes|PronType=Prs:сæ се
+
+### ADV ###
+ADV,PronType=Dem:ныр мæнæ йер æр гъер
+ADV,PronType=Dem|Deixis=Prox:афтæ афтæмæй ахæм йафтæ йахæм
+ADV,PronType=Dem|Deixis=Remt:уæд йæд уалынмæ уæртæ уæдæ уалынджы уымæн
+ADV,PronType=Int:куы кæм кæдæм куыдæм кæцæй кæд куыд цæмæн цæмæй цалынмæ цæмæ
+ADV,PronType=Ind:искуы искуыд искæм искæдæм искуыдæм искæд истæмæн истæмæй истæмæ
+ADV,PronType=Ind:куыддæр кæмдæр кæдæмдæр куыдæмдæр кæддæр цæмæндæр цæмæйдæр цæмæдæр
+ADV,PronType=Ind:куыддæриддæр кæмдæриддæр кæдæмдæриддæр куыдæмдæриддæр кæддæриддæр цæмæндæриддæр цæмæйдæриддæр цæмæдæриддæр
+ADV,PronType=Tot:алкæм алкæд алкæдæм алкуыдæм
+ADV,PronType=Neg:никуы никæм никæд никæдæм никуыдæм
+ADV,PronType=Neg:макуы макæм макæд макæдæм макуыдæм
+
+### AUX ###
+AUX,Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin:нæу нæй
+
+AUX,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin:дæн
+AUX,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin:дæ
+AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin:у и ис
+AUX,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin:стæм
+AUX,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin:стут
+AUX,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin:сты
+
+AUX,Mood=Opt|Number=Sing|Person=1|VerbForm=Fin:уаин
+AUX,Mood=Opt|Number=Sing|Person=2|VerbForm=Fin:уаис
+AUX,Mood=Opt|Number=Sing|Person=3|VerbForm=Fin:уаид
+AUX,Mood=Opt|Number=Plur|Person=1|VerbForm=Fin:уаиккам
+AUX,Mood=Opt|Number=Plur|Person=2|VerbForm=Fin:уаиккат
+AUX,Mood=Opt|Number=Plur|Person=3|VerbForm=Fin:уаиккой
+
+### VERB ###
+VERB,Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin:мæгъа
+
+VERB,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin:дæн
+VERB,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin:дæ
+VERB,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin:у и ис
+VERB,Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin:нæу нæй
+VERB,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin:стæм
+VERB,Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin:стут
+VERB,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin:сты
+
+VERB,Mood=Opt|Number=Sing|Person=1|VerbForm=Fin:уаин
+VERB,Mood=Opt|Number=Sing|Person=2|VerbForm=Fin:уаис
+VERB,Mood=Opt|Number=Sing|Person=3|VerbForm=Fin:уаид
+VERB,Mood=Opt|Number=Plur|Person=1|VerbForm=Fin:уаиккам
+VERB,Mood=Opt|Number=Plur|Person=2|VerbForm=Fin:уаиккат
+VERB,Mood=Opt|Number=Plur|Person=3|VerbForm=Fin:уаиккой
+
+
